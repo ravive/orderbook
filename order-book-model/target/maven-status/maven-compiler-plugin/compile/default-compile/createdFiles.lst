@@ -1,0 +1,9 @@
+com/orderbook/model/OrderBookSnapshot$OrderBookSnapshotBuilder.class
+com/orderbook/model/OrderStatus.class
+com/orderbook/model/SnapshotOrder.class
+com/orderbook/model/OrderSide.class
+com/orderbook/model/OrderType.class
+com/orderbook/model/OrderBookEntry.class
+com/orderbook/model/OrderBookEntry$OrderBookEntryBuilder.class
+com/orderbook/model/OrderBookSnapshot.class
+com/orderbook/model/SnapshotOrder$SnapshotOrderBuilder.class
